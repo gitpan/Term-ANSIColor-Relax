@@ -1,0 +1,26 @@
+---
+abstract: 'take easy to use colors in your term'
+author:
+  - 'zentooo <zentoooo@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.00'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Term-ANSIColor-Relax
+no_index:
+  directory:
+    - inc
+    - t
+    - xt
+requires:
+  autobox: 0
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/zentooo/p5-term-ansicolor-relax.git
+version: 0.02
